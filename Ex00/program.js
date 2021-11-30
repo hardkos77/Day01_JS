@@ -7,7 +7,8 @@ function tabTriCarre(array){
     });
     return array;
 }
-console.log(tabTriCarre(array));
+
+tabTriCarre(array);
 
 // Merci de ne pas effacer la ligne en dessous.
 
